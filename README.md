@@ -5,12 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning github
+- 🔭 I’m currently working on myself 
+- 🌱 I’m currently learning github and coi]ding languages
 - 👯 I’m looking to collaborate with @aliasgarsogiawala
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about ahmed bharmal
-- 📫 How to reach me: dont
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i can code with both my hands
+- 🤔 I’m looking for help with everything and i genuinely need help 
+- 💬 Ask me about idk just ask 
+- 📫 How to reach me: through dms :)
+- 😄 Pronouns: he/him/shameless
+- ⚡ Fun fact: i can code with both my hands and i learn quickly
 
+<h1 align="center">🌐 Hi, I'm Qusai Kanorwala</h1>
+<div align="center">
