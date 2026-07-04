@@ -1,9 +1,8 @@
 <h1 align="center">🌐 Hi, I'm Qusai Kanorwala 👋</h1>
 <!--
-**qusai1589-sig/qusai1589-sig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qusai1589-sig/qusai1589-sig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning github and coi]ding languages
 - 👯 I’m looking to collaborate with @aliasgarsogiawala
