@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   
 
 ## 😎 My Work
-   <p Here are some of the projects i have worked on and the codes are in my repository /p>
+   Here are some of the projects i have worked on and the codes are in my repository
