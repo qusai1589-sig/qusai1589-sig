@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ## 😎 My Work
    Here are some of the projects i have worked on and the codes are in my repository
-   - <img src="https://slackmojis.com/emojis/186-pokeball/download"/>
+   - <img src="https://slackmojis.com/emojis/186-pokeball/download"/> Monster Tamer (Similar to a pokemon game)
